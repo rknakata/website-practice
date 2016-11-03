@@ -1,0 +1,10 @@
+#linksBackground {
+    border-radius: 20px;
+    /*background: #73AD21;*/
+    background: url(img/blackStripes.jpg);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px;
+    width: 7000px;
+    height: 300px;
+}
